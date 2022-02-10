@@ -12,4 +12,7 @@ E quando junta as Branchs
 
 5- O que e Pull
 Quando traz as alterações de repositório remoto para 
-o repositório local  
+o repositório local
+
+6- O que e Branch  
+Ramificações dos repositórios 
