@@ -9,3 +9,7 @@ A pasta onde será colocado os arquivos do projeto
 
 4- O que Merge
 E quando junta as Branchs
+
+5- O que e Pull
+Quando traz as alterações de repositório remoto para 
+o repositório local  
